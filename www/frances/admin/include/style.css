@@ -1,0 +1,90 @@
+html				{ height:100%; }
+body				{ height:100%; margin:0px; background-color:#ffffff; background-image:url(../imagens/fundo.png);}
+img					{ border:none; }
+
+#divMenu			{ position:absolute; left:10px; width:200px; min-height:100%; }
+#divMenu a			{ font-size:15px; font-weight:bold; }
+#divMenu div		{ border-bottom:#FFFFFF 1px solid; padding:5px; }
+
+#divConteudo		{ position:absolute; left:230px; top:10px; width:570px; min-height:100%; }
+
+a  {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color:#ffffff;
+	text-decoration: none;
+}
+
+a:hover  {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color:#Ff9933;
+	text-decoration: none;
+}
+
+a:active  {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF9933;
+	text-decoration: none;
+}
+
+input {  
+	font-family: Verdana;
+	font-size: 9px
+}
+
+select {  
+	font-family: Verdana;
+	font-size: 9px
+}
+
+textarea {  
+	font-family: Verdana;
+	font-size: 9px
+}
+
+.margem {
+	margin-left: 6px;
+	margin-top: 0px;
+	margin-right: 6px;
+	margin-bottom: 0px;
+}
+
+.titulo  {
+	font-family: Verdana;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.subtitulo  {
+	font-family: Verdana;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.texto  {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #ffffff;
+}
+
+.erro  {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}

@@ -1,0 +1,97 @@
+
+
+
+	TEXTOS QUE AINDA FALTAM:
+
+	
+
+	
+	// Resultados da campanha
+
+	TREJETÓRIA MUITO RUIM ;
+	TREJETÓRIA RUIM ;
+	TREJETÓRIA REGULAR ;
+	TREJETÓRIA BOM ;
+	TREJETÓRIA EXCELENTE ;
+
+
+
+
+	// Placar final
+	
+	PLACAR ;
+
+
+
+
+	// Barra de status
+	
+	Movimente o mouse sobre as opções
+
+
+
+	
+	// Erros
+
+	NÃO EXISTEM CASOS DISPONÍVEIS NO MOMENTO. ;
+	NÃO EXISTEM SITUAÇÕES DISPONÍVEIS A PARTIR DESTE NÍVEL. ;
+
+
+	
+
+	// Descrição da campanha
+	
+	Poliópolis
+
+	A cidade de Poliópolis cresce na mesma velocidade com que se expande
+	o seu pólo industrial. E, ao mesmo tempo em que fomenta a diversificação
+	das atividades produtivas da região, o processo de industrialização engendra,
+	por outro lado, problemas comuns às cidades que crescem rapidamente, como
+	o aumento da desordem urbana.
+	
+	De fato, a modernidade vem modificando a vida dos moradores locais, que
+	assistem a transformação de Poliópolis, pequena cidade caracterizada pelo
+	cultivo da cana-de-açúcar, paisagens bucólicas, turismo ecológico, festivais
+	de cultura sazonais, etc., em Poliópolis, cidade brasileira de médio porte.
+	
+	Essa nova indústria requer, ainda, mão-de-obra qualificada, o que é uma
+	limitação para uma cidade com taxas de analfabetismo em torno dos 15%, na
+	qual não existem universidades e é grande a taxa de evasão escolar, da
+	educação infantil ao ensino médio.
+	
+	O resultado disso é que a maior parte da população poliopolitana é
+	subempregada ou absorvida pelas atividades informais. Quando não passa a
+	engordar os números do alto índice de desemprego.
+	
+	Alheia a isso, a indústria crescente continua sua demanda por trabalhadores
+	especializados. O resultado é o surgimento de um fenômeno novo para o
+	município. Os fluxos migratórios.
+	
+	Em pouco tempo, a população de Poliópolis elevou-se quase ao seu dobro,
+	chegando à casa dos 80.000 habitantes. E a área total do município, passou
+	a extrapolar os 100 km, o que favoreceu a formação de periferias.
+
+	Mas o tempo não pára e as mudanças seguem acontecendo. A cidade se divide:
+	Zona Agrícola, Industrial, Residencial, Central e Periférica. O mesmo se pode
+	dizer dos serviços e investimentos públicos, que parecem igualmente se
+	dividir entre centrais e periféricos.
+	E a infra-estrutura urbana não acompanha todas essas mudanças. Ocupações
+	irregulares, saneamento básico precário, aumento da população de rua,
+	problemas de trânsito, transporte coletivo insuficiente, falta de opções
+	de lazer, problemas ambientais, aumento da criminalidade. Tudo isso passa
+	a fazer parte da nova Poliópolis.
+
+	Como não poderia deixar de ser, todo esse ambiente de desordem urbana
+	significa mais trabalho para o Batalhão de Polícia Militar de Poliópolis.
+	E também, é claro, para os profissionais das duas delegacias de Polícia
+	Civil, das quais uma é especializada no atendimento a mulheres vítimas de
+	violência. Felizmente, aliás, porque ao lado dos acidentes de trânsito,
+	dos furtos e das reclamações de barulho, essas são as ocorrências mais
+	frequentes da cidade.
+
+	Poliópolis conta ainda com 50 guardas municipais e um conselho municipal
+	de segurança pública. Mas a Prefeitura não dispõe de uma secretaria
+	específica para tratar das questões de ordem pública.
+
+	Em Poliópolis, portanto, muita coisa é caso de polícia.
+	Os poliopolitanos sabem exatamente o que fazer: é só ligar 190!
